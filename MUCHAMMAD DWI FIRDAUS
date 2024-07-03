@@ -5,4 +5,4 @@ NIM : 20230801086
 		jawab: AC(15) + CE(7) + EH(12) + HJ(3) + JK(7) = 44
 
 	2. Tuliskan edge edge yang terhubung berdasarkan Directed Graph :
-		jawab : AC,BA,
+		jawab : (A,C), (B,A), (B,C), (C,D), (C,H), (C,G), (E,C), (F,E), (H,I), (I,G), (I,J), (I,K), (K,H), (K,F)
