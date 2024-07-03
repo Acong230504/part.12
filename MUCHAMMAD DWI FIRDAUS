@@ -1,0 +1,8 @@
+NAMA: MUCHAMMAD DWI FIRDAUS 
+NIM : 20230801086
+
+	1. Carilah jalur terpendek dari A sampai K dari gambar draf diatas berikut:
+		jawab: AC(15) + CE(7) + EH(12) + HJ(3) + JK(7) = 44
+
+	2. Tuliskan edge edge yang terhubung berdasarkan Directed Graph :
+		jawab : AC,BA,
